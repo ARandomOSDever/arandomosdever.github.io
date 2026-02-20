@@ -15,7 +15,7 @@
 
     <audio controls src="assets/music/GlowstickLyricTheme.ogg"></audio>
 
-    This toong seems to be a remix of Glowstick City in a Yamaha YM2612 style.
+    This song seems to be a remix of Glowstick City in a Yamaha YM2612 style.
     This song is a lot more different than any other song in the OST: it has actual lyrics!
     <details><summary>Lyrics:</summary>
       Woah
