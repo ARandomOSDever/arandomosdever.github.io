@@ -1,5 +1,7 @@
 # Uncanny Cat Golf Unused Content
-This page documents the unused contents of [Uncanny Cat Golf](https://slappyhappy2000.itch.io/uncanny-cat-golf) (more specifically, the latest version on the Itch.io page)
+This page documents the unused contents of [Uncanny Cat Golf](https://slappyhappy2000.itch.io/uncanny-cat-golf)
+
+Note: This currently only documents the unused contents of the Playtest 2 build. Playtest 2 Plus from a cursory glance seems to have more things
 
 ## Pages:
  - [UCG Unused Content - Music](music.md)
